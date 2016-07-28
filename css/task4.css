@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;
+}
+.content{
+    width:400px;
+    height:200px;
+    background-color: #ccc;
+    margin:0 auto;
+}
